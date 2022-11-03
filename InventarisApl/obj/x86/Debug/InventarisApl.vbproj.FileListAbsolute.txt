@@ -1,0 +1,26 @@
+C:\Users\UBG\AppData\Local\Temporary Projects\InventarisApl\obj\x86\Debug\InventarisApl.vbprojResolveAssemblyReference.cache
+C:\Users\UBG\AppData\Local\Temporary Projects\InventarisApl\obj\x86\Debug\InventarisApl.Form1.resources
+C:\Users\UBG\AppData\Local\Temporary Projects\InventarisApl\obj\x86\Debug\InventarisApl.Resources.resources
+C:\Users\UBG\AppData\Local\Temporary Projects\InventarisApl\obj\x86\Debug\InventarisApl.vbproj.GenerateResource.Cache
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.vbprojResolveAssemblyReference.cache
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.Form1.resources
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.Resources.resources
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.vbproj.GenerateResource.Cache
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\bin\Debug\InventarisApl.exe
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\bin\Debug\InventarisApl.pdb
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\bin\Debug\InventarisApl.xml
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.exe
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.xml
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.pdb
+E:\my documen\Visual Studio 2010\Projects\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.formBarang.resources
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.exe
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.xml
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.pdb
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.vbprojResolveAssemblyReference.cache
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.Form1.resources
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.formBarang.resources
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.Resources.resources
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\obj\x86\Debug\InventarisApl.vbproj.GenerateResource.Cache
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\bin\Debug\InventarisApl.exe
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\bin\Debug\InventarisApl.pdb
+C:\Users\Adi Wijaya\Documents\InventarisApl\InventarisApl\bin\Debug\InventarisApl.xml
